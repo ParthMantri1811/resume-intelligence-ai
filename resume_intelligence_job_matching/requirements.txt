@@ -1,0 +1,1 @@
+streamlit>=1.35,<2\npandas>=2.0,<3\nplotly>=5.20,<7\nscikit-learn>=1.4,<2\nPyMuPDF>=1.24,<2\npython-docx>=1.1,<2\n

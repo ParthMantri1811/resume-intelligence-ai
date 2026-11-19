@@ -1,0 +1,8 @@
+Python Developer Intern
+Responsibilities:
+- Develop Python applications and REST APIs.
+- Work with Flask or FastAPI and relational databases.
+- Write clean, tested and maintainable code.
+- Use Git and GitHub for version control.
+- Collaborate to debug and improve applications.
+Required skills: Python, Flask, FastAPI, REST API, SQL, Git, GitHub, Linux, problem solving, communication, data structures, algorithms.
